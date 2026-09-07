@@ -156,7 +156,6 @@ If you find Trajectory Flow useful for your research, please consider citing our
 }
 ```
 
-The final citation information will be updated after publication.
 
 ---
 
