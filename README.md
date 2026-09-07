@@ -149,10 +149,10 @@ If you find Trajectory Flow useful for your research, please consider citing our
   title={{Trajectory Flow:} Geometry-Constrained Surface Reconstruction via Unsigned Distance Fields},
   author={Yu, Chengcheng and Dun, Zixu and Liu, Zheng and He, Ying},
   journal={IEEE Trans. Vis. Comput. Graph.},
-  year={},
-  volume = {},
-  number = {},
-  pages = {}
+  year={2026},
+  volume = {32},
+  number = {10},
+  pages = {8397-8412}
 }
 ```
 
